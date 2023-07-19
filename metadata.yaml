@@ -1,0 +1,33 @@
+_repo: Poetry-and-the-Drama-b-Three-Plays-by-Frederic-Hebbel_71187
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hebbel, Frederic
+    gutenberg_agent_id: '56108'
+    url: http://www.gutenberg.org/2009/agents/56108
+  editor:
+    agent_name: Rhys, Ernest
+    birthdate: 1859
+    deathdate: 1946
+    gutenberg_agent_id: '6540'
+    url: http://www.gutenberg.org/2009/agents/6540
+    wikipedia: https://en.wikipedia.org/wiki/Ernest_Rhys
+description: ''
+gutenberg_issued: '2023-07-13'
+identifiers:
+  gutenberg: '71187'
+language: en
+pgterms:marc905: 20060415090014hebbel
+pgterms:marc906: '1914'
+pgterms:marc907: GB
+production_note: David Clarke, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bJ. M. Dent, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Poetry and the Drama : $b Three Plays by Frederic Hebbel'
+url: http://www.gutenberg.org/ebooks/71187
